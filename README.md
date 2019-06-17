@@ -1,4 +1,4 @@
-# 더숲 디지털 인문학 워크숍
+# 더숲아카데미 디지털 인문학 워크샵
 ![강좌 포스터 6월-50px](https://drive.google.com/uc?id=1_zVXjz12NFYgJJI1IikL_Dhj-eEs2RIr)
 
 ## 디지털 인문학
