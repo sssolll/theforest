@@ -18,4 +18,4 @@
 * 4강 - 디지털 인문학 경험해보기(시각화)
 
 ### 강의자료
-* [강의안](https://drive.google.com/open?id=1bniSKPrd4x5bXbnxrQs1oJnDQMFjtC8y)
+* [강의안](http://dh.aks.ac.kr/~ssrssa/static/forestdh6.pdf)
